@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="~/css/project.css">
+</head>
+<body>
+    <div class="navbar">
+        <a href="/">Home</a>
+        <span> | </span>
+        <a href="/projects">Projects</a>
+        <span> | </span>
+        <a href="/contact">Contact</a>
+    </div>
+    <div class="content">
+        <h1 class="center">My Projects</h1>
+        <div class="projects">
+            <!-- Liste des projets -->
+            <div class="project">
+                <h2 class="project-title">Project 1 : Practice Assignment Portfolio I</h2>
+                <div class="project-description">
+                    <p>Description du projet 1...</p>
+                </div>
+            </div>
+            <div class="project">
+                <h2 class="project-title">Project 2 : Practice Assignment Razor Fun!</h2>
+                <div class="project-description">
+                    <p>Description du projet 2...</p>
+                </div>
+            </div>
+            <div class="project">
+                <h2 class="project-title">Project 2 : Core Assignment Game Developer I</h2>
+                <div class="project-description">
+                    <p>Description du projet 2...</p>
+                </div>
+            </div>
+            <div class="project">
+                <h2 class="project-title">Project 2 : Core Assignment Game Developer II</h2>
+                <div class="project-description">
+                    <p>Description du projet 2...</p>
+                </div>
+            </div>
+            <div class="project">
+                <h2 class="project-title">Project 2 : Practice Assignment Portfolio II</h2>
+                <div class="project-description">
+                    <p>Description du projet 2...</p>
+                </div>
+            </div>
+            <div class="project">
+                <h2 class="project-title">Project 2 : Practice Assignment Ride Mader</h2>
+                <div class="project-description">
+                    <p>Description du projet 2...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript pour faire défiler les projets -->
+    <script>
+        document.querySelectorAll('.project').forEach(project => {
+            project.addEventListener('click', () => {
+                project.classList.toggle('expanded');
+            });
+        });
+    </script>
+</body>
+</html>

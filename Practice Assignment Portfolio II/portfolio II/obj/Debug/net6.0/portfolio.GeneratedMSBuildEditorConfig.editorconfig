@@ -1,0 +1,28 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = portfolio
+build_property.RootNamespace = portfolio
+build_property.ProjectDir = c:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\ASP.NET Core\Practice Assignment Portfolio II\portfolio II\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\ASP.NET Core\Practice Assignment Portfolio II\portfolio II
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/Hichem Hammami/Desktop/C\# _.NET & ASP.NET Core/ASP.NET Core/Practice Assignment Portfolio II/portfolio II/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Hichem Hammami/Desktop/C\# _.NET & ASP.NET Core/ASP.NET Core/Practice Assignment Portfolio II/portfolio II/Views/Home/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Hichem Hammami/Desktop/C\# _.NET & ASP.NET Core/ASP.NET Core/Practice Assignment Portfolio II/portfolio II/Views/Home/Project.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9qZWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

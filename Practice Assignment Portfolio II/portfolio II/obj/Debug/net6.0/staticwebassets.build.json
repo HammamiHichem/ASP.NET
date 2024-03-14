@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "x7yvwxJZktzs4Ibt4A6Ze7srzp/KL7wgmv/KWPXkZnQ=",
+  "Source": "portfolio",
+  "BasePath": "_content/portfolio",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "portfolio\\wwwroot",
+      "Source": "portfolio",
+      "ContentRoot": "C:\\Users\\Hichem Hammami\\Desktop\\C# _.NET & ASP.NET Core\\ASP.NET Core\\Practice Assignment Portfolio II\\portfolio II\\wwwroot\\",
+      "BasePath": "_content/portfolio",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Hichem Hammami\\Desktop\\C# _.NET & ASP.NET Core\\ASP.NET Core\\Practice Assignment Portfolio II\\portfolio II\\wwwroot\\css\\style.css",
+      "SourceId": "portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hichem Hammami\\Desktop\\C# _.NET & ASP.NET Core\\ASP.NET Core\\Practice Assignment Portfolio II\\portfolio II\\wwwroot\\",
+      "BasePath": "_content/portfolio",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}
