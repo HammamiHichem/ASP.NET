@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/style.css"/>
+    
+    <title>Dojo Survey</title>
+</head>
+<body>
+<div class='wrapper'>
+    <h1 class='h1'>Dojo Survey</h1>
+    <form class='form' id="surveyForm" action='/SurveyResults' method="post">
+    <div class='section'>
+        Name: <input type='text' name='name' required>
+    </div>
+    <div class='section'>
+        Dojo Location: <select name='location' required>
+            <option value="Seattle">Seattle</option>
+            <option value="San Jose">San Jose</option>
+            <option value="Chicago">Chicago</option>
+        
+        </select>
+    </div>
+    <div class='section'>
+        Favorite Language: <select name='language' required>
+            <option value="Python">Python/Django</option>
+            <option value="C#/.NET">C#/.NET</option>
+            <option value="MERN">MERN</option>
+            <option value="Java">Java</option>
+        </select>
+    </div>
+    Comment (optional):
+    <div class='section'>        
+        <textarea name='comment' id="comment" cols='10' rows='4'></textarea>
+    </div>
+        <input id='button' type='submit' value='Submit'>
+    </form> 
+</div> 
+<script>
+    document.getElementById("surveyForm").addEventListener("submit", function(event) {
+        var commentField = document.getElementById("comment");
+        if (commentField.value.trim() === "") {
+            commentField.value = "No comment";
+            commentField.style.color = "#999"; // Gray color
+        }
+    });
+</script>
+</body>
+</html>
