@@ -1,0 +1,32 @@
+/* navbar.css */
+
+.navbar {
+  background-color: #333; /* Couleur de fond de la barre de navigation */
+  padding: 10px 0; /* Espacement intérieur de la barre de navigation */
+}
+
+.navbar ul {
+  list-style-type: none; /* Supprimer les puces de la liste */
+  margin: 0; /* Supprimer les marges */
+  padding: 0; /* Supprimer les espacements internes */
+}
+
+.navbar ul li {
+  display: inline; /* Afficher les éléments de la liste en ligne */
+  margin-right: 20px; /* Marge à droite entre les éléments de la liste */
+}
+
+.navbar ul li:last-child {
+  margin-right: 0; /* Supprimer la marge à droite du dernier élément de la liste */
+}
+
+.navbar ul li a {
+  color: #fff; /* Couleur du texte des liens */
+  text-decoration: none; /* Supprimer la soulignement des liens */
+  padding: 10px 20px; /* Espacement interne des liens */
+  transition: background-color 0.3s; /* Transition fluide de la couleur de fond */
+}
+
+.navbar ul li a:hover {
+  background-color: #555; /* Couleur de fond au survol */
+}

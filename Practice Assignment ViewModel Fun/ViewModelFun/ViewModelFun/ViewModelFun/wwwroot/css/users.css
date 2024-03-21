@@ -1,0 +1,27 @@
+/* user.css */
+
+.user-list-container {
+    border: 1px solid #ccc; /* Bordure solide grise */
+    padding: 10px; /* Espacement intérieur */
+    border-radius: 5px; /* Coins arrondis */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ombre légère */
+    margin-bottom: 20px; /* Marge en bas */
+}
+
+.user-list-container div {
+    margin-bottom: 10px; /* Espacement entre chaque utilisateur */
+}
+
+.user-list-container div:last-child {
+    margin-bottom: 0; /* Supprimer la marge en bas du dernier utilisateur */
+}
+
+.user-list-container div strong {
+    font-weight: bold;
+    color: #007bff; /* Couleur du texte en surbrillance */
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}

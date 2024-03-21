@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>ViewModel Fun</title>
+    <!-- Inclure les liens vers les fichiers CSS ici -->
+    <link href="~/css/navbar.css" rel="stylesheet" />
+    <link href="~/css/users.css" rel="stylesheet" />
+
+</head>
+<body>
+    <div class="navbar">
+        <ul>
+            <li><a asp-action="Index" asp-controller="Home">Home</a></li>
+            <li><a asp-action="Numbers" asp-controller="Home">Numbers</a></li>
+            <li><a asp-action="UserPage" asp-controller="Home">User</a></li>
+            <li><a asp-action="Users" asp-controller="Home">Users</a></li>
+        </ul>
+    </div>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>

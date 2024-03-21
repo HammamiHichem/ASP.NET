@@ -1,0 +1,9 @@
+@model List<User>
+
+<div class="user-list-container">
+    <h1>Here is a List of Users</h1>
+    @foreach (var user in Model)
+    {
+        <div>@user.FirstName @user.LastName</div>
+    }
+</div>
