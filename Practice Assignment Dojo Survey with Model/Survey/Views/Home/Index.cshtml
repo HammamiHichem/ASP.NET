@@ -1,0 +1,42 @@
+﻿@{
+    string[] locations = new string[]
+    {
+        "Tunis", "Gafsa", "Nabeul", "Kasrine", "Sousse", "Gabes", "Sfax"
+    };
+
+    string[] languages = new string[]
+    {
+        "C#", "Python", "Java", "Javascript", "Ruby", "C++"
+    };
+}
+<div class="container">
+    <form action="/process" method="post">
+        <div class="form-group">
+            <label for="Name">Your Name:</label>
+            <input type="text" name="Name">
+        </div>
+        <div class="form-group">
+            <label for="Location">Dojo Location:</label>
+            <select name="Location" id="">
+            @foreach(var loc in locations)
+            {
+                <option value="@loc">@loc</option>
+            }
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="Language">Favorite Language:</label>
+            <select name="Language" id="">
+            @foreach(var lang in languages)
+            {
+                <option value="@lang">@lang</option>
+            }
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="Comment">Comment (optional):</label>
+            <textarea name="Comment" id=""></textarea>
+        </div>
+        <input type="submit" value="Submit!">
+    </form>
+</div>

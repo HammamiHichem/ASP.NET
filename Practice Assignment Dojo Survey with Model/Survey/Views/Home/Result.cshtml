@@ -1,0 +1,14 @@
+@model DojoSurveyWithModel.Models.Survey
+<div class="container">
+    <div class="result">
+        <h1>Submitted Info:</h1>
+        <p><strong>Name: </strong>@Model.Name</p>
+        <p><strong>Location: </strong>@Model.Location</p>
+        <p><strong>Language: </strong>@Model.Language</p>
+        @if(Model.Comment != null)
+        {
+            <p><strong>Comment: </strong>@Model.Comment</p>
+        }
+        <a href="/"><button>Go Back</button></a>
+    </div>
+</div>

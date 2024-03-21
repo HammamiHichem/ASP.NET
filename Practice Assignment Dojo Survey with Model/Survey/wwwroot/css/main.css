@@ -1,0 +1,29 @@
+.red {
+    color: red;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 20vh;
+}
+
+.form-group {
+    margin: 10px 0; /* Agrega margen vertical entre los elementos */
+}
+
+/* Estilos adicionales para los elementos de formulario (puedes personalizarlos según tus necesidades) */
+form {
+    text-align: center;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+label {
+    display: block; /* Asegura que las etiquetas estén en líneas separadas */
+}
+
+select, input, textarea {
+    width: 100%;
+}
