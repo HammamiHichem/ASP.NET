@@ -1,0 +1,52 @@
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\Form-Submission.csproj.AssemblyReference.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\Form-Submission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\Form-Submission.AssemblyInfoInputs.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\Form-Submission.AssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\Form-Submission.csproj.CoreCompileInputs.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\Form-Submission.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\Form-Submission.RazorAssemblyInfo.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\Form-Submission.RazorAssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\bin\Debug\net6.0\appsettings.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\bin\Debug\net6.0\Form-Submission.staticwebassets.runtime.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\bin\Debug\net6.0\Form-Submission.exe
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\bin\Debug\net6.0\Form-Submission.deps.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\bin\Debug\net6.0\Form-Submission.runtimeconfig.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\bin\Debug\net6.0\Form-Submission.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\bin\Debug\net6.0\Form-Submission.pdb
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\scopedcss\bundle\Form-Submission.styles.css
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\scopedcss\projectbundle\Form-Submission.bundle.scp.css
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\Form-Submission.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\refint\Form-Submission.dll
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\Form-Submission.pdb
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\Form-Submission.genruntimeconfig.cache
+C:\Users\Hichem Hammami\Desktop\C# _.NET & ASP.NET Core\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\ref\Form-Submission.dll
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\bin\Debug\net6.0\appsettings.json
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\bin\Debug\net6.0\Form-Submission.staticwebassets.runtime.json
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\bin\Debug\net6.0\Form-Submission.exe
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\bin\Debug\net6.0\Form-Submission.deps.json
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\bin\Debug\net6.0\Form-Submission.runtimeconfig.json
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\bin\Debug\net6.0\Form-Submission.dll
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\bin\Debug\net6.0\Form-Submission.pdb
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\Form-Submission.csproj.AssemblyReference.cache
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\Form-Submission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\Form-Submission.AssemblyInfoInputs.cache
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\Form-Submission.AssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\Form-Submission.csproj.CoreCompileInputs.cache
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\Form-Submission.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\Form-Submission.RazorAssemblyInfo.cache
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\Form-Submission.RazorAssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\scopedcss\bundle\Form-Submission.styles.css
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\scopedcss\projectbundle\Form-Submission.bundle.scp.css
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\Form-Submission.dll
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\refint\Form-Submission.dll
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\Form-Submission.pdb
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\Form-Submission.genruntimeconfig.cache
+C:\Users\Hichem Hammami\Desktop\ASP.NET\Practice Assignment Form Submission\Form-Submission\obj\Debug\net6.0\ref\Form-Submission.dll
