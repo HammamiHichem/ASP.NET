@@ -1,0 +1,8 @@
+﻿@model MyModel
+
+<form asp-controller="Home" asp-action="Submit" method="post">
+    <label for="Date">Date:</label>
+    <input type="date" asp-for="Date" class="form-control" />
+    <span asp-validation-for="Date" class="text-danger"></span>
+    <button type="submit" class="btn btn-primary">Soumettre</button>
+</form>
