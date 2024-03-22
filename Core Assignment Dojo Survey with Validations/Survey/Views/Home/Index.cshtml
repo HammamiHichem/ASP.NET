@@ -1,0 +1,44 @@
+﻿@model DojoSurveyWithModel.Models.Survey
+
+<div class="container">
+    <form action="/process" method="post">
+        <div class="form-group">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" class="form-control">
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Location"></label>
+            <select asp-for="Location" class="form-control">
+                <option value="">Select Location</option>
+                <option value="Tunis">Tunis</option>
+                <option value="Gafsa">Gafsa</option>
+                <option value="Nabeul">Nabeul</option>
+                <option value="Kasrine">Kasrine</option>
+                <option value="Sousse">Sousse</option>
+                <option value="Gabes">Gabes</option>
+                <option value="Sfax">Sfax</option>
+            </select>
+            <span asp-validation-for="Location" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Language"></label>
+            <select asp-for="Language" class="form-control">
+                <option value="">Select Language</option>
+                <option value="C#">C#</option>
+                <option value="Python">Python</option>
+                <option value="Java">Java</option>
+                <option value="Javascript">Javascript</option>
+                <option value="Ruby">Ruby</option>
+                <option value="C++">C++</option>
+            </select>
+            <span asp-validation-for="Language" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Comment"></label>
+            <textarea asp-for="Comment" class="form-control"></textarea>
+            <span asp-validation-for="Comment" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
