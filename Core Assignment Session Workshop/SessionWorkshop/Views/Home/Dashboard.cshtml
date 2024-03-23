@@ -1,0 +1,19 @@
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+
+<h2>Welcome, @ViewBag.Username!</h2>
+<p>Current value: @ViewBag.Value</p>
+<form asp-action="PerformOperation" method="post">
+    <button type="submit" name="operation" value="add" class="btn">+ 1</button>
+    <button type="submit" name="operation" value="subtract" class="btn">- 1</button>
+    <button type="submit" name="operation" value="multiply" class="btn">x 2</button>
+    <button type="submit" name="operation" value="random" class="btn">Random</button>
+    <button type="submit" name="operation" value="logout" class="btn">Log out</button>
+</form>
+
+<!-- Bouton de réinitialisation -->
+<form asp-action="ResetValue" method="post">
+    <button type="submit" class="btn">Reset Value</button>
+</form>

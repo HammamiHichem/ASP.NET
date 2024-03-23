@@ -1,0 +1,64 @@
+/* Style for the buttons */
+.btn[b-y3q7qpe88z] {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  border: 2px solid #007bff; /* Primary color */
+  border-radius: 5px;
+  background-color: transparent;
+  color: #007bff; /* Primary color */
+  transition: all 0.3s ease;
+}
+
+/* Hover effect for buttons */
+.btn:hover[b-y3q7qpe88z] {
+  background-color: #007bff; /* Primary color */
+  color: #fff;
+}
+
+/* Additional style for the Reset Value button */
+.btn-reset[b-y3q7qpe88z] {
+  border-color: #6c757d; /* Secondary color */
+  color: #6c757d; /* Secondary color */
+}
+
+.btn-reset:hover[b-y3q7qpe88z] {
+  background-color: #6c757d; /* Secondary color */
+  color: #fff;
+}
+
+/* Style for the form */
+.form-container[b-y3q7qpe88z] {
+  margin-top: 20px;
+}
+
+/* Style for the form input */
+.form-input[b-y3q7qpe88z] {
+  width: 300px;
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #007bff; /* Primary color */
+  border-radius: 5px;
+}
+
+/* Style for the form submit button */
+.form-submit-btn[b-y3q7qpe88z] {
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff; /* Primary color */
+  color: #fff;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+/* Hover effect for the form submit button */
+.form-submit-btn:hover[b-y3q7qpe88z] {
+  background-color: #0056b3; /* Darker shade of primary color */
+}
